@@ -258,7 +258,7 @@ var config = {
                 pitch: 0.00,
                 bearing: 0.00
             },
-        }
+        },
         {
             id: 'righthere',
             alignment: 'right',
